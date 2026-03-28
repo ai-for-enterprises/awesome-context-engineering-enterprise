@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.ai-for-enterprises.net/favicon.jpg" alt="AI for Enterprises" width="150">
+</p>
+
 # Awesome Context Engineering for Enterprise
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
