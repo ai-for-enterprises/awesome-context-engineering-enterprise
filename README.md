@@ -41,6 +41,7 @@ Tools that go beyond autocomplete by ingesting organizational architecture decis
 - **[Continue](https://continue.dev)**: Open-source AI code assistant for VS Code and JetBrains with custom context providers, local model support, and full data control. `#open-source`
 - **[Refact.ai](https://refact.ai)**: Self-hosted AI coding assistant with fine-tuning on private codebases, customizable context, and on-prem deployment. `#freemium` `#self-hosted`
 - **[Pieces for Developers](https://pieces.app)**: Developer productivity suite with long-term memory, workflow context, and on-device processing for privacy-sensitive environments. `#freemium`
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)**: Open-source local-first memory lifecycle layer for AI agents with project-scoped recall, forgetting, audit, consolidation, and SQLite/FTS storage. `#open-source` `#self-hosted`
 
 ---
 
