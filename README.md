@@ -36,7 +36,7 @@ Tools that go beyond autocomplete by ingesting organizational architecture decis
 
 ---
 
-- **[OutcomeOps.AI](https://outcomeops.ai)**: Single-tenant context engineering platform deployed via Terraform into your own AWS account. Autonomous ticket-to-PR pipeline with ADR enforcement, self-correction loops, and air-gapped deployment for regulated industries. `#enterprise` `#self-hosted`
+- **[OutcomeOps.AI](https://github.com/bcarpio/outcome-ops-ai-assist)**: Open-source (Apache 2.0), single-tenant context engineering platform deployed via Terraform into your own AWS account. Autonomous ticket-to-PR pipeline with ADR enforcement, self-correction loops, and air-gapped deployment for regulated industries. `#open-source` `#self-hosted`
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)**: AI coding assistant with full codebase context via Sourcegraph's code graph. Enterprise deployment with SSO, audit logs, and on-prem options. `#freemium`
 - **[Continue](https://continue.dev)**: Open-source AI code assistant for VS Code and JetBrains with custom context providers, local model support, and full data control. `#open-source`
 - **[Refact.ai](https://refact.ai)**: Self-hosted AI coding assistant with fine-tuning on private codebases, customizable context, and on-prem deployment. `#freemium` `#self-hosted`
@@ -103,7 +103,7 @@ AI tools that automate code review, enforce quality standards, detect technical 
 - **[DeepSource](https://deepsource.com)**: Automated code review with tech debt tracking, autofix capabilities, and security analysis. `#freemium`
 - **[Sourcery](https://sourcery.ai)**: AI code reviewer with automated refactoring suggestions and coding standard enforcement. `#freemium`
 - **[Amazon CodeGuru](https://aws.amazon.com/codeguru)**: ML-powered code reviews and application performance profiling for Java and Python. `#paid`
-- **[OutcomeOps.AI](https://outcomeops.ai)**: Code review module that validates generated code against Architecture Decision Records (ADRs) before review, preventing non-compliant code. `#enterprise` `#self-hosted`
+- **[OutcomeOps.AI](https://github.com/bcarpio/outcome-ops-ai-assist)**: Code review module that validates generated code against Architecture Decision Records (ADRs) before review, preventing non-compliant code. `#open-source` `#self-hosted`
 - **[SonarQube](https://sonarqube.org)**: Industry-standard code quality and security platform with 30+ language support, quality gates, and on-prem deployment. `#freemium` `#self-hosted`
 
 ---
@@ -118,7 +118,7 @@ AI agents that automatically analyze pull requests, generate summaries, check fo
 - **[Sweep](https://sweep.dev)**: AI agent that turns GitHub issues into pull requests with code changes, tests, and self-review. `#open-source`
 - **[Greptile](https://greptile.com)**: PR review agent with full codebase understanding for contextual analysis beyond just the diff. `#paid`
 - **[What The Diff](https://whatthediff.ai)**: Generates plain-English PR summaries and reviews to speed up the review cycle. `#freemium`
-- **[OutcomeOps.AI](https://outcomeops.ai)**: PR review agent that analyzes changes against ADRs, validates architectural compliance, checks test coverage, and produces audit-ready traceability reports. `#enterprise` `#self-hosted`
+- **[OutcomeOps.AI](https://github.com/bcarpio/outcome-ops-ai-assist)**: PR review agent that analyzes changes against ADRs, validates architectural compliance, checks test coverage, and produces audit-ready traceability reports. `#open-source` `#self-hosted`
 - **[Pixee](https://pixee.ai)**: Security-focused bot that detects vulnerabilities in PRs and automatically submits fix PRs. `#freemium`
 
 ---
@@ -135,7 +135,7 @@ Security scanning, vulnerability detection, license compliance, and policy enfor
 - **[Mend](https://mend.io)**: Open source security and license compliance management with automated remediation. `#freemium`
 - **[JFrog Xray](https://jfrog.com/xray)**: Universal software composition analysis with deep recursive scanning across the DevOps pipeline. `#paid`
 - **[GitGuardian](https://gitguardian.com)**: Secrets detection and remediation across repositories, CI/CD pipelines, and Docker images. `#freemium`
-- **[OutcomeOps.AI](https://outcomeops.ai)**: Architecture compliance enforcement with license detection, ADR-driven security validation, and air-gapped deployment for regulated industries. `#enterprise` `#self-hosted`
+- **[OutcomeOps.AI](https://github.com/bcarpio/outcome-ops-ai-assist)**: Architecture compliance enforcement with license detection, ADR-driven security validation, and air-gapped deployment for regulated industries. `#open-source` `#self-hosted`
 - **[Semgrep](https://semgrep.dev)**: Lightweight static analysis with custom rules, supporting 30+ languages and CI/CD integration. `#freemium` `#open-source`
 
 ---
